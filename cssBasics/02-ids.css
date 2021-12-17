@@ -1,0 +1,21 @@
+#number-one {
+    color: blue;
+}
+
+#-two {
+    font-size: 20px;
+}
+
+.first-class {
+    color: goldenrod;
+}
+
+p {
+    color: red;
+}
+
+.second-class {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
